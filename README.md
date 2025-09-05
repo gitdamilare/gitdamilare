@@ -9,7 +9,7 @@ I specialize in **modernizing legacy platforms, building resilient event-driven 
 - 💰 Optimized Azure infrastructure — **cut costs by 18%** while improving performance by **30%**  
 - 🧩 Strong in **Microservices | DDD | Event-Driven | Cloud Patterns | AI/ML Integration**  
 - 🎓 MSc, Global Software Development (Germany) | BSc, Computer Science (Nigeria)  
-- 📜 Certified: **Azure Developer Associate, Azure Fundamentals, PSM I, OWASP SKF100** (Azure Solutions Architect in progress)  
+- 📜 Certified: **Azure Developer Associate, Azure Fundamentals, PSM I, OWASP SKF100**, (Azure Solutions Architect in progress)  
 
 ---
 
