@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=%20Oluwadamilare%20&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ## 👨‍💻 About Me
-Senior **.NET Engineer & Cloud Architect** with **10+ years’ experience** building and scaling **cloud-native financial solutions** 🚀.  
+Senior **.NET Engineer & Cloud Architect** with **8+ years’ experience** building and scaling **cloud-native financial solutions** 🚀.  
 I combine expertise in **Microsoft stack (C#, ASP.NET Core, .NET 6/7)**, **Azure (AKS, PaaS, DevOps)**, and **modern architecture (Microservices, DDD, Event‑Driven)** to engineer high-performance, reliable platforms.  
 
 - ⚡ Designed systems processing **500k+ daily docs** at 99.8% reliability & <300ms pricing calculations  
@@ -85,13 +85,13 @@ Azure OpenAI • RAG (Vector Search) • Azure AI Document Intelligence • Pred
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/burhan-webb/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Burhan-blue?style=flat-square&logo=linkedin">
+  <a href="https://www.linkedin.com/in/oyebanji-dami/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dami-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://buymeacoffee.com/burhan">
     <img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buymeacoffee">
   </a>
-  <a href="mailto:iburhanwebb@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Burhan-red?style=flat-square&logo=gmail">
+  <a href="mailto:damilareoyebanji@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Dami-red?style=flat-square&logo=gmail">
   </a>
 </p>
