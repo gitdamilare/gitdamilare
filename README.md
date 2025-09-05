@@ -27,10 +27,11 @@ I specialize in **modernizing legacy platforms, building resilient event-driven 
 
 ---
 
-### 🧠 AI/ML & Data  
-| Azure OpenAI | Azure AI Document Intelligence | SQL Server | PostgreSQL | MongoDB | Cosmos DB |
-|--------------|--------------------------------|------------|------------|---------|-----------|
-| <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" width="45"/> | <img src="https://learn.microsoft.com/training/achievements/extract-data-from-forms-use-form-recognizer-social.png" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cosmosdb/cosmosdb-original.svg" width="45"/> |
+### 🧠 Data & AI/ML  
+| SQL Server | PostgreSQL | MongoDB | Cosmos DB | Azure OpenAI |  <abbr title="Azure AI Document Intelligence">Azure AI DI</abbr> |
+|------------|------------|---------|-----------|--------------|--------------------------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cosmosdb/cosmosdb-original.svg" width="45"/> | <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" width="45"/> | <img src="asset/azure-ai-document-intelligence-avatar.svg" width="45"/> |
+
 
 
 ---
