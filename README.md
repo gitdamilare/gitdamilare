@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I’m Damilare!
 
-**Senior .NET Engineer & Cloud Architect** with 10+ years of experience designing and scaling **high-performance, cloud-native financial systems** using **.NET Core** and **Azure**.  
+**Senior .NET Engineer & Cloud Architect** with 8+ years of experience designing and scaling **high-performance, cloud-native financial systems** using **.NET Core** and **Azure**.  
 I specialize in **modernizing legacy platforms, building resilient event-driven microservices, and applying cloud design patterns** to solve complex business problems.
 
 - ⚡ Architected **cloud-native doc generation platform** scaling to **500k+ daily docs** at **99.8% reliability**  
