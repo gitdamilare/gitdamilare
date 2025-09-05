@@ -7,7 +7,8 @@ I work at the crossroads of **engineering and architecture**, helping teams deli
 
 - ⚡ Experienced in **modernizing legacy systems** into microservices and event-driven architectures  
 - ☁️ Skilled in **Azure cloud design patterns**, balancing performance, cost, and scalability  
-- 🧩 Strong advocate of **Domain-Driven Design, Clean Architecture, and DevOps practices**  
+- 🧩 Strong advocate of **Domain-Driven Design, Clean Architecture, and DevOps practices**
+- 📱 I also enjoy building **mobile apps with Flutter/Dart**, bringing ideas to life on multiple platforms  
 - 🧑‍🤝‍🧑 Mentor and team facilitator, passionate about knowledge sharing and building engineering culture  
 - 🎓 MSc, Global Software Development (Germany) | BSc, Computer Science (Nigeria)  
 - 📜 Certified: **Azure Developer Associate, Azure Fundamentals, PSM I, OWASP SKF100**, (Azure Solutions Architect in progress)  
@@ -19,9 +20,10 @@ I work at the crossroads of **engineering and architecture**, helping teams deli
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks  
-| C# | .NET Core | ASP.NET | JavaScript | Angular | SQL | gRPC |
-|----|-----------|---------|------------|---------|-----|------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45"/> | <img src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" width="45"/> |
+| C# | .NET Core | ASP.NET | JavaScript | Angular | Flutter | Dart | SQL | gRPC | REST | SOAP |
+|----|-----------|---------|------------|---------|---------|------|-----|------|------|------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="45"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45"/> | <img src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" width="45"/> | <img src="https://img.icons8.com/?size=512&id=122959&format=png" width="45"/> | <img src="https://img.icons8.com/?size=512&id=122961&format=png" width="45"/> |
+
 
 ---
 
@@ -63,8 +65,13 @@ I work at the crossroads of **engineering and architecture**, helping teams deli
 *.NET Core, Angular, SignalR*  
 – Logging pipeline processing hundreds of events per second with live dashboard visualization.  
 
+🔹 **[SellIt Mobile App](https://github.com/gitdamilare/sellit_mobileapp)**  
+*Flutter, Dart*  
+– A cross-platform mobile app showcasing **modern Flutter development**, designed for buying and selling items with an intuitive UI and **AI-powered image search** for products.  
+
 🔹 **Exploration Projects**  
 – Experimenting with **AI-enhanced apps**, **modern microservice patterns**, and **cloud-native automation**.  
+
 
 ---
 
